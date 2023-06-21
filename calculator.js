@@ -1,4 +1,3 @@
-(function() {
     let screen = document.querySelector('.screen input');
     let buttons = document.querySelectorAll('.buttons .btn');
     let clear = document.querySelector('.btn-clear');
@@ -67,4 +66,4 @@
   
       return values[0];
     }
-  })();
+  
